@@ -176,7 +176,7 @@ main {
   flex-direction: column;
   padding-bottom: 30px;
 }
-#schedule h1 {
+#schedule h2 {
   color: white;
   text-align: center;
   font-weight: bold;
@@ -323,7 +323,7 @@ form button {
   /* Section 2 End */
 
   /* Schedule Begin */
-  #schedule h1 {
+  #schedule h2 {
     font-size: 4rem;
     margin-bottom: 70px;
   }
