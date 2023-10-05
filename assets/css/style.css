@@ -1,0 +1,107 @@
+/* Google fonts import */
+
+@import url("https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,500;0,600;0,700;0,800;1,500;1,600;1,700;1,800&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Oswald:wght@200;300;400;500;600;700&family=Poppins:wght@300;400;500;600&family=Roboto:wght@100&display=swap");
+
+/* Asterisk wildcard selector to override default styles added by the browser */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* General styles */
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  color: #3a3a3a;
+  font-family: "EB Garamond", sans serif;
+}
+
+header {
+  background-color: #ffffff;
+  padding: 0.5rem 1rem;
+  position: fixed;
+  z-index: 99;
+  width: 100%;
+  box-shadow: 0 2px 2px 2px #3a3a3a;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header a {
+  text-decoration: none;
+  color: inherit;
+}
+h1 {
+  font-family: fantasy, sans serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: #252525;
+}
+#menu {
+  list-style-type: none;
+  letter-spacing: 0.3px;
+  font-size: 1rem;
+}
+
+#menu > li {
+  margin-bottom: 0.5em;
+  text-align: center;
+}
+#menu li a {
+  letter-spacing: 0.1rem;
+  font-size: 1.2rem;
+}
+
+.active {
+  border-bottom: 1px solid #49526b;
+}
+nav {
+  position: absolute;
+  background-color: #ffffff;
+  left: 0;
+  width: 100%;
+  padding: 0 1em;
+  box-shadow: 0px 5px 5px #818694;
+  display: none;
+  top: 100%;
+}
+#logo {
+  font-size: 1.5rem;
+}
+
+#nav-toggle:checked ~ nav {
+  display: block;
+}
+#nav-toggle {
+  display: none;
+}
+.nav-toggle-label {
+  font-size: 1rem;
+}
+
+/* Media query: tablet and larger( 768px and up)*/
+@media screen and (min-width: 768px) {
+  /* Header */
+  nav {
+    display: block;
+    position: relative;
+    box-shadow: none;
+    width: fit-content;
+    padding-right: 1rem;
+  }
+  #logo {
+    line-height: 4.68rem;
+    margin: 1.2rem 0.7em;
+  }
+  #menu {
+    display: flex;
+  }
+  #menu > li {
+    margin-left: 1rem;
+  }
+  .nav-toggle-label {
+    display: none;
+  }
+}
