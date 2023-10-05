@@ -154,6 +154,20 @@ main {
 }
 /* Section 2 End  */
 
+/* Footer Begin */
+#footer-links {
+  display: flex;
+  justify-content: space-evenly;
+  list-style-type: none;
+  padding: 1.875rem;
+  background-color: rgb(191, 216, 191);
+}
+#footer-links i {
+  font-size: 2rem;
+  color: black;
+}
+/* Footer End */
+
 /* Media query: tablet and larger( 768px and up)*/
 @media screen and (min-width: 768px) {
   /* Header */
