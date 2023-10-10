@@ -64,4 +64,10 @@ This site was created to announce Swedish courses and has a responsive feature.
 - Tested colors via [Contrast Grid](https://contrast-grid.eightshapes.com/)
   
   ![contrast grid](assets/images/Screenshot%202023-10-10%20at%2012.44.30.png)
+
+# Validator Testing
+
+- HTML
+  - Passed the test without any errors.(Home Page)
+  - ![homepage html](assets/images/Screenshot%202023-10-10%20at%2012.57.36.png)
   
