@@ -38,5 +38,8 @@ This site was created to announce Swedish courses and has a responsive feature.
   It has been designed to provide access to social media links when the icons are clicked in the footer section.
   ![social media links](assets/images/Screenshot%202023-10-10%20at%2011.12.47.png)
 
-- Schedule Page 
+- **Schedule Page**
+  
+  This page provides clear information about the planned courses, their times and locations.
+   ![courses schedule](assets/images/Screenshot%202023-10-10%20at%2011.31.38.png)
   
