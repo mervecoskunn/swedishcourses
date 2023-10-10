@@ -68,7 +68,7 @@ This site was created to announce Swedish courses and has a responsive feature.
 # Validator Testing
 
 - HTML
-  - Passed the test without any errors.(Home Page)
+  - Passed the test without any errors.(Home Page)[W3C Validator](https://validator.w3.org/)
   ![homepage html](assets/images/Screenshot%202023-10-10%20at%2012.57.36.png)
   - Passed the test without any errors.(Schedule Page)
   ![schedulepage html](assets/images/Screenshot%202023-10-10%20at%2013.00.20.png)
@@ -76,6 +76,6 @@ This site was created to announce Swedish courses and has a responsive feature.
   ![contact page html](assets/images/Screenshot%202023-10-10%20at%2013.03.04.png)
 
 - CSS
-  - Passed the test without any errors.
+  - Passed the test without any errors.[(Jigsaw) CSS validator](https://jigsaw.w3.org/css-validator/)
   ![style.css file](assets/images/Screenshot%202023-10-10%20at%2013.05.43.png)
   
