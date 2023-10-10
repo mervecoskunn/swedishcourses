@@ -13,6 +13,6 @@ This site was created to announce Swedish courses and has a responsive feature.
 ## Existing Features
 - Home
   - Logo
-    Ana sayfaya köprü ile tüm sayfalarda öne çıkar
+ Featured on all the pages with a hyperlink to home page.
   - Navigation Bar
-    It has a responsive feature. It contains links to the home schedule and contact pages. Highlights the current page. It allows easy navigation between pages when clicked. It is user friendly.
+It has a responsive feature. It contains links to the home schedule and contact pages. Highlights the current page. It allows easy navigation between pages when clicked. It is user friendly.
