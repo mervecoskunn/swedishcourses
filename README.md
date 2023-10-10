@@ -11,7 +11,7 @@ Add here image responsive pages
 This site was created to announce Swedish courses and has a responsive feature.
 
 ## Existing Features
-- Header
+- **Header**
   - Logo
   
     Featured on all the pages with a hyperlink to home page.
@@ -22,7 +22,7 @@ This site was created to announce Swedish courses and has a responsive feature.
 
     ![header](assets/images/Screenshot%202023-10-10%20at%2010.57.45.png)
 
-- Top Image - Home Page
+- **Top Image - Home Page**
 
   The image added to the top of the home page informs users that the page is about communication.
   ![top-photo](assets/images/Screenshot%202023-10-10%20at%2011.02.30.png)
@@ -33,7 +33,7 @@ This site was created to announce Swedish courses and has a responsive feature.
 
   ![course information](assets/images/Screenshot%202023-10-10%20at%2011.08.49.png)
 
-- Footer
+- **Footer**
 
   It has been designed to provide access to social media links when the icons are clicked in the footer section.
   ![social media links](assets/images/Screenshot%202023-10-10%20at%2011.12.47.png)
