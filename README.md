@@ -86,6 +86,11 @@ This site was created to announce Swedish courses and has a responsive feature.
   - Performance: 99%
   
   ![lighthouse](assets/images/Screenshot%202023-10-06%20at%2010.56.04.png)
+
+ # Deployment
+
+ -  Deployed to Github Page.
+    - [Click here](https://mervecoskunn.github.io/swedishcourses/) to wiew the deployed  Swedish Course website.
   
 
   
