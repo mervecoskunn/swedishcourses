@@ -40,6 +40,11 @@ This site was created to announce Swedish courses and has a responsive feature.
 
 - **Schedule Page**
   
-  This page provides clear information about the planned courses, their times and locations.
+    So that users can easily obtain information this page provides clear information about the planned courses, their times and locations.
    ![courses schedule](assets/images/Screenshot%202023-10-10%20at%2011.31.38.png)
+
+- **Contact Page**  
+
+    The form is responsive. A more elegant appearance was achieved by using the blur effect to be compatible with the background image. All fields are required to be filled. When the submit button is clicked, the form is automatically saved and sent. The user can clearly write in the message section which course he/she will attend.
+    ![form section](assets/images/Screenshot%202023-10-10%20at%2011.45.34.png)
   
