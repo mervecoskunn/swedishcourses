@@ -78,4 +78,14 @@ This site was created to announce Swedish courses and has a responsive feature.
 - CSS
   - Passed the test without any errors.[(Jigsaw) CSS validator](https://jigsaw.w3.org/css-validator/)
   ![style.css file](assets/images/Screenshot%202023-10-10%20at%2013.05.43.png)
+
+- LIGHTHOUSE
+  - Accessibility: 96%
+  - Best Practices: 100%
+  - SEO: 100%
+  - Performance: 99%
+  
+  ![lighthouse](assets/images/Screenshot%202023-10-06%20at%2010.56.04.png)
+  
+
   
