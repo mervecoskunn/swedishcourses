@@ -11,7 +11,7 @@ Add here image responsive pages
 This site was created to announce Swedish courses and has a responsive feature.
 
 ## Existing Features
-- Home
+- Header
   - Logo
   
     Featured on all the pages with a hyperlink to home page.
@@ -19,3 +19,4 @@ This site was created to announce Swedish courses and has a responsive feature.
   - Navigation Bar
   
     It has a responsive feature. It contains links to the home schedule and contact pages. Highlights the current page. It allows easy navigation between pages when clicked. It is user friendly.
+    ![header](assets/images/Screenshot%202023-10-10%20at%2010.57.45.png)
