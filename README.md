@@ -27,7 +27,7 @@ This site was created to announce Swedish courses and has a responsive feature.
   The image added to the top of the home page informs users that the page is about communication.
   ![top-photo](assets/images/Screenshot%202023-10-10%20at%2011.02.30.png)
 
-- Course information section - Home Page
+- **Course Information Section - Home Page**
 
   This section is designed to provide brief context information about the courses.
 
