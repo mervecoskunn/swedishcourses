@@ -103,6 +103,10 @@ This site was created to announce Swedish courses and has a responsive feature.
   - The script code for font awesome icons - script src="https://kit.fontawesome.com/e6e69ae431.js" crossorigin="anonymous" - is credited to Love Running project of Code Institute.
   - Font families used on this site; "fantasy" , "EB Garamond". Imported from Google fonts. [Google Fonts](https://fonts.google.com/)
   - I used the color calculation and the code to be used to give the blur effect as a background feature to the form on the contact page from [cssgradient.io](https://cssgradient.io/).
+
+ # Ideas
+  - While designing this website, I was inspired by many websites that had internal announcements and I made sure that the information was much clearer and easier to understand.
+  - I was inspired by the [Love Running project](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode) for the dropdown menu section used for the mobile size of the navbar. I changed the design of the items we encounter when we open the dropdown menu in mobile size.
   
 
   
