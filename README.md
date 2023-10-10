@@ -19,4 +19,10 @@ This site was created to announce Swedish courses and has a responsive feature.
   - Navigation Bar
   
     It has a responsive feature. It contains links to the home schedule and contact pages. Highlights the current page. It allows easy navigation between pages when clicked. It is user friendly.
+
     ![header](assets/images/Screenshot%202023-10-10%20at%2010.57.45.png)
+
+## Top Image - Home Page
+
+The image added to the top of the home page informs users that the page is about communication.
+![top-photo](assets/images/Screenshot%202023-10-10%20at%2011.02.30.png)
