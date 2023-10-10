@@ -22,6 +22,9 @@ This site was created to announce Swedish courses and has a responsive feature.
 
     ![header](assets/images/Screenshot%202023-10-10%20at%2010.57.45.png)
 
+  - When the mobile screen size is changed, the navigation bar in the header section turns into a hamburger menu icon and our users are faced with a dropdown menu application that opens when clicked.
+   ![dropdown menu](assets/images/Screenshot%202023-10-10%20at%2012.52.32.png)
+
 - **Top Image - Home Page**
 
   The image added to the top of the home page informs users that the page is about communication.
