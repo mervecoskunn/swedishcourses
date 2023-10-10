@@ -90,7 +90,10 @@ This site was created to announce Swedish courses and has a responsive feature.
  # Deployment
 
  -  Deployed to Github Page.
-    - [Click here](https://mervecoskunn.github.io/swedishcourses/) to wiew the deployed  Swedish Course website.
+   - In the GitHub repository, navigate to the Settings tab
+   - From the source section drop-down menu, select the Master Branch
+   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+   - [Click here](https://mervecoskunn.github.io/swedishcourses/) to wiew the deployed  Swedish Course website.
 
  # Credits
 
