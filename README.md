@@ -106,7 +106,7 @@ This site was created to announce Swedish courses and has a responsive feature.
 
  # Ideas
   - While designing this website, I was inspired by many websites that had internal announcements and I made sure that the information was much clearer and easier to understand.
-  - I was inspired by the [Love Running project](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode) for the dropdown menu section used for the mobile size of the navbar. I changed the design of the items we encounter when we open the dropdown menu in mobile size.
+  -  While I was looking for the most ideal design for the mobile size of the navbar items in the header, I was inspired by the [Love Running project](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode) for the dropdown menu section used for the mobile size of the navbar. I changed the design of the items we encounter when we open the dropdown menu in mobile size.
   
 
   
