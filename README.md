@@ -58,4 +58,7 @@ This site was created to announce Swedish courses and has a responsive feature.
   - The links have been tested and they work correctly as expected and open on a new page when clicked.
   - It has been tested that the website is fully responsive.
   - The schedule page was designed as flex and responsive, and its responsive feature was preserved by using the wrap feature to continue working in accordance with different screen sizes.
+- Tested colors via [Contrast Grid](https://contrast-grid.eightshapes.com/)
+  
+  ![contrast grid](assets/images/Screenshot%202023-10-10%20at%2012.44.30.png)
   
