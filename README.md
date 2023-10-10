@@ -36,4 +36,4 @@ This section is designed to provide brief context information about the courses.
 ## Footer
 
 It has been designed to provide access to social media links when the icons are clicked in the footer section.
-![social media links](assets/images/Screenshot%202023-10-10%20at%2011.08.49.png)
+![social media links](assets/images/Screenshot%202023-10-10%20at%2011.12.47.png)
