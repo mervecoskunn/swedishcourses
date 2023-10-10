@@ -69,5 +69,9 @@ This site was created to announce Swedish courses and has a responsive feature.
 
 - HTML
   - Passed the test without any errors.(Home Page)
-  - ![homepage html](assets/images/Screenshot%202023-10-10%20at%2012.57.36.png)
+  ![homepage html](assets/images/Screenshot%202023-10-10%20at%2012.57.36.png)
+  - Passed the test without any errors.(Schedule Page)
+  ![schedulepage html](assets/images/Screenshot%202023-10-10%20at%2013.00.20.png)
+  - Passed the test without any errors.(Contact Page)
+  ![contact page html](assets/images/Screenshot%202023-10-10%20at%2013.03.04.png)
   
