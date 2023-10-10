@@ -52,4 +52,10 @@ This site was created to announce Swedish courses and has a responsive feature.
 
 - Gallery section containing photographs taken with the participants of the course and interviews with them.
 -  New announcements to announce new events to be held at appropriate times according to participant demands.
+
+# Testing
+  - All codes and features were tested with DevTools.
+  - The links have been tested and they work correctly as expected and open on a new page when clicked.
+  - It has been tested that the website is fully responsive.
+  - The schedule page was designed as flex and responsive, and its responsive feature was preserved by using the wrap feature to continue working in accordance with different screen sizes.
   
