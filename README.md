@@ -96,7 +96,7 @@ This site was created to announce Swedish courses and has a responsive feature.
 
  ## Media
    All images used on the site were used from Pexels, a site that contains photographs that we can use for free, recommended by Code Institute.
-   [Pexels.com](https://www.pexels.com/)
+   [Click here](https://www.pexels.com/) to visit this website.
   
 
   
