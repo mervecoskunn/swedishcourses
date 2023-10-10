@@ -98,5 +98,11 @@ This site was created to announce Swedish courses and has a responsive feature.
    All images used on the site were used from Pexels, a site that contains photographs that we can use for free, recommended by Code Institute.
    [Click here](https://www.pexels.com/) to visit this website.
   
+ # Code
+  - I added a link and imported it so that I could use the icons I used in social media links from the font awsome website. [Font Awsome page](https://fontawesome.com/)
+  - The script code for font awesome icons - script src="https://kit.fontawesome.com/e6e69ae431.js" crossorigin="anonymous" - is credited to Love Running project of Code Institute.
+  - Font families used on this site; "fantasy" , "EB Garamond". Imported from Google fonts. [Google Fonts](https://fonts.google.com/)
+  - I used the color calculation and the code to be used to give the blur effect as a background feature to the form on the contact page from [cssgradient.io](https://cssgradient.io/).
+  
 
   
