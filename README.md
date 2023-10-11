@@ -44,7 +44,7 @@ This site was created to announce Swedish courses and has a responsive feature.
 - **Schedule Page**
   
     So that users can easily obtain information this page provides clear information about the planned courses, their times and locations.
-   ![courses schedule](assets/images/Screenshot%202023-10-10%20at%2011.31.38.png)
+   ![courses schedule](assets/images/Screenshot%202023-10-11%20at%2012.35.19.png)
 
 - **Contact Page**  
 
