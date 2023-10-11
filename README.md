@@ -49,6 +49,7 @@ This site was created to announce Swedish courses and has a responsive feature.
 - **Contact Page**  
 
     The form is responsive. A more elegant appearance was achieved by using the blur effect to be compatible with the background image. All fields are required to be filled. When the submit button is clicked, the form is automatically saved and sent. The user can clearly write in the message section which course he/she will attend.
+    
     ![form section](assets/images/Screenshot%202023-10-10%20at%2011.45.34.png)
 
 ## Future Features
