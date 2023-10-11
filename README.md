@@ -5,7 +5,7 @@ On this page, you will see the free Swedish courses organized by a private compa
 
 They can take a look at brief information about the courses on the home page of the website. They can then look at the programs on the schedule page and choose the time that is suitable for them. Then, when they come to the contact page, they can fill out the form there and register directly. If they wish, they can of course get ideas by visiting the social media links in the footer section.
 
-Add here image responsive pages
+![Am I Responsive?](assets/images/Ekran%20Resmi%202023-10-06%2009.41.55.png)
 
 # Features
 This site was created to announce Swedish courses and has a responsive feature.
