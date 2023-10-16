@@ -310,6 +310,15 @@ form button {
     border: none;
     font-size: 1.5rem;
 }
+#thankyou{
+    /* text-align: center;
+    margin-top: 5rem;
+    margin-bottom: 5rem; */
+    padding: 30% 10% 10% 20%;
+}
+#form-action{
+   background-color: rgb(57, 132, 190);
+}
 
 /* Contact End */
 
@@ -380,4 +389,8 @@ form button {
     }
 
     /* Form End */
+    #thankyou{
+       padding: 10% 5%;
+       font-size:xx-large;
+    }
 }
