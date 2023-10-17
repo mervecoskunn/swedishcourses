@@ -18,7 +18,9 @@ They can take a look at brief information about the courses on the home page of 
 - **As a user, I want to see the programs available.**
 
 ## Wireframes
-The designs of this project were made in[Balsamiq](https://balsamiq.com/)
+The designs of this project were made in [Balsamiq](https://balsamiq.com/).
+Designs for mobile size and large screens are designed as follows.
+![homepage](assets/images/Screenshot%202023-10-17%20at%2008.59.57.png) ![homepagemobilesize](assets/images/Screenshot%202023-10-17%20at%2009.03.24.png) ![schedulepage](assets/images/Screenshot%202023-10-17%20at%2009.02.58.png) ![schedulepagemobile](assets/images/Screenshot%202023-10-17%20at%2009.01.07.png) ![contactpage](assets/images/Screenshot%202023-10-17%20at%2009.00.45.png) ![contactpagemobilesize](assets/images/Screenshot%202023-10-17%20at%2008.59.57.png)
 
 
 # Features
