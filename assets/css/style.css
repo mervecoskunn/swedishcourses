@@ -50,7 +50,7 @@ header a {
     font-size: 1rem;
 }
 
-#menu > li {
+#menu>li {
     margin-bottom: 0.5em;
     text-align: center;
 }
@@ -76,10 +76,10 @@ nav {
     font-size: 1.2rem;
 }
 
-#nav-toggle:checked ~ nav {
+#nav-toggle:checked~nav {
     position: absolute;
     top: 100%;
-    left:0;
+    left: 0;
     display: block;
 }
 
@@ -115,7 +115,7 @@ main {
     padding: 2%;
 }
 
-#section-2 > h2 {
+#section-2>h2 {
     letter-spacing: 0.5px;
     text-transform: uppercase;
     font-size: x-large;
@@ -143,12 +143,12 @@ main {
     border: 2px black solid;
 }
 
-.section-2-item > h3 {
+.section-2-item>h3 {
     text-transform: uppercase;
     letter-spacing: 1px;
 }
 
-.section-2-item > p {
+.section-2-item>p {
     margin-top: 1%;
 }
 
@@ -174,11 +174,9 @@ main {
 #schedule {
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(
-            90deg,
+    background: linear-gradient(90deg,
             rgba(3, 51, 204, 1) 0%,
-            rgba(0, 212, 255, 1) 100%
-    );
+            rgba(0, 212, 255, 1) 100%);
     margin: 0 auto;
     display: flex;
     justify-content: center;
@@ -210,7 +208,8 @@ main {
 .schedule-item {
     color: white;
     font-size: 2rem;
-    background-color: rgba(55, 41, 11, 0.35); /* opasity and boxes color*/
+    background-color: rgba(55, 41, 11, 0.35);
+    /* opasity and boxes color*/
     border-radius: 1rem;
     padding: 1rem;
     align-items: center;
@@ -226,13 +225,13 @@ main {
     background-color: rgba(55, 41, 11, 0.55);
 }
 
-.schedule-item > h3 {
+.schedule-item>h3 {
     text-transform: uppercase;
     font-size: 1.2rem;
     letter-spacing: 2px;
 }
 
-.schedule-item > h4 {
+.schedule-item>h4 {
     text-transform: uppercase;
     font-size: 0.8rem;
     letter-spacing: 2px;
@@ -271,7 +270,8 @@ main {
 form {
     width: 90%;
     height: 80%;
-    backdrop-filter: blur(2px); /* Background blur effect */
+    backdrop-filter: blur(2px);
+    /* Background blur effect */
     background-color: rgba(55, 41, 11, 0.35);
     border-radius: 40px;
     display: flex;
@@ -310,20 +310,35 @@ form button {
     border: none;
     font-size: 1.5rem;
 }
-#thankyou{
-    /* text-align: center;
-    margin-top: 5rem;
-    margin-bottom: 5rem; */
-    padding: 30% 10% 10% 20%;
-}
-#form-action{
-   background-color: rgb(57, 132, 190);
-}
+
 
 /* Contact End */
 
+/* Thank you Begin */
+.thanks-container {
+    background-color: white;
+    padding: 3% 5%;
+    margin: 10% 5%;
+    border-radius: 60px;
+    box-shadow: 0px 15px 5px black;
+}
+
+.thanks-container h1 {
+    text-align: center;
+    font-size: 1.3rem;
+    margin: 2rem 0;
+    color: rgb(57, 132, 190);
+}
+
+#form-action {
+    background-color: rgb(57, 132, 190);
+}
+
+/* Thank you End */
+
 /* Media query: tablet and larger( 768px and up)*/
 @media screen and (min-width: 768px) {
+
     /* Header Begin */
     nav {
         display: block;
@@ -342,7 +357,7 @@ form button {
         display: flex;
     }
 
-    #menu > li {
+    #menu>li {
         margin-left: 1rem;
     }
 
@@ -372,26 +387,35 @@ form button {
         align-self: center;
     }
 
-    .schedule-item > h3 {
+    .schedule-item>h3 {
         font-size: 1.5rem;
     }
 
-    .schedule-item > h4 {
+    .schedule-item>h4 {
         font-size: 1rem;
     }
 
     /* Schedule End */
     /* Form Begin */
     form {
-        
+
         width: fit-content;
         padding: 0 50px;
         max-height: 60%;
     }
 
     /* Form End */
-    #thankyou{
-       padding: 10% 5%;
-       font-size:xx-large;
+
+    /* Thank you Begin */
+
+    .thanks-container {
+        padding: 5% 5%;
+        margin: 7% 5%;
     }
+
+    .thanks-container h1 {
+        font-size: 3rem;
+    }
+
+    /* Thank you End */
 }
