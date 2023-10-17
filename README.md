@@ -21,6 +21,8 @@ On this page, you will see the free Swedish courses organized by a private compa
 The designs of this project were made in [Balsamiq](https://balsamiq.com/).
 Designs for mobile size and large screens are designed as follows.
 
+You can visit to see [wireframe][wireframe.md].
+
 ![homepage](assets/images/homepage.png)
 ![homepagemobile](assets/images/homepagemobile.png)
 ![schedulepage](assets/images/schedulepage.png)
@@ -139,3 +141,5 @@ This site was created to announce Swedish courses and has a responsive feature.
   
 
   
+
+
