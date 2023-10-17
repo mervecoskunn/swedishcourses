@@ -383,6 +383,7 @@ form button {
     /* Schedule End */
     /* Form Begin */
     form {
+        
         width: fit-content;
         padding: 0 50px;
         max-height: 60%;

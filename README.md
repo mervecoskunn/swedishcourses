@@ -7,6 +7,16 @@ They can take a look at brief information about the courses on the home page of 
 
 ![Am I Responsive?](assets/images/Ekran%20Resmi%202023-10-06%2009.41.55.png)
 
+# User Experience (UX)
+
+## User Stories
+- **As a user, I want to be able to easily understand the purpose of the site when I open it.**
+- **As a user, I want to easily navigate between pages on the site.**
+- **As a user, I want to be able to obtain the information I need clearly and easily.**
+- **As a user I want to easily be able to contact Swedish Courses for more information.**
+- **As a user I want to connect with Swedish Courses on social media.**
+- **As a user, I want to see the programs available.**
+
 # Features
 This site was created to announce Swedish courses and has a responsive feature.
 
