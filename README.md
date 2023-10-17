@@ -3,7 +3,7 @@
 
 On this page, you will see the free Swedish courses organized by a private company in Sweden for its employees coming from abroad.The purpose of this website is to help expat employees working in this company to adapt to their lives in Sweden more easily and to make their new lives in Sweden easier by learning Swedish.
 
-They can take a look at brief information about the courses on the home page of the website. They can then look at the programs on the schedule page and choose the time that is suitable for them. Then, when they come to the contact page, they can fill out the form there and register directly. If they wish, they can of course get ideas by visiting the social media links in the footer section.
+
 
 ![Am I Responsive?](assets/images/Ekran%20Resmi%202023-10-06%2009.41.55.png)
 
@@ -27,6 +27,10 @@ Designs for mobile size and large screens are designed as follows.
 ![schedulepagemobile](assets/images/schedulemobile.png)
 ![contactpage](assets/images/contactpage.png)
 ![contactpagemobile](assets/images/contactmobile.png)
+
+## Site Structure
+
+They can take a look at brief information about the courses on the home page of the website. They can then look at the programs on the schedule page and choose the time that is suitable for them. Then, when they come to the contact page, they can fill out the form there and register directly. If they wish, they can of course get ideas by visiting the social media links in the footer section.
 
 # Features
 This site was created to announce Swedish courses and has a responsive feature.
