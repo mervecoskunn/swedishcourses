@@ -20,8 +20,13 @@ They can take a look at brief information about the courses on the home page of 
 ## Wireframes
 The designs of this project were made in [Balsamiq](https://balsamiq.com/).
 Designs for mobile size and large screens are designed as follows.
-![homepage](assets/images/Screenshot%202023-10-17%20at%2008.59.57.png) ![homepagemobilesize](assets/images/homepagemobile.png) ![schedulepage](assets/images/schedule.png) ![schedulepagemobile](assets/images/schedulemobile.png) ![contactpage](assets/images/contact.png) ![contactpagemobilesize](assets/images/contactmobile.png)
 
+![homepage](assets/images/homepage.png)
+![homepagemobile](assets/images/homepagemobile.png)
+![schedulepage](assets/images/schedulepage.png)
+![schedulepagemobile](assets/images/schedulemobile.png)
+![contactpage](assets/images/contactpage.png)
+![contactpagemobile](assets/images/contactmobile.png)
 
 # Features
 This site was created to announce Swedish courses and has a responsive feature.
