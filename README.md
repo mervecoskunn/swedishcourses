@@ -21,8 +21,6 @@ On this page, you will see the free Swedish courses organized by a private compa
 The designs of this project were made in [Balsamiq](https://balsamiq.com/).
 Designs for mobile size and large screens are designed as follows.
 
-You can visit to see [wireframe][wireframe.md].
-
 ![homepage](assets/images/homepage.png)
 ![homepagemobile](assets/images/homepagemobile.png)
 ![schedulepage](assets/images/schedulepage.png)
@@ -83,6 +81,14 @@ This site was created to announce Swedish courses and has a responsive feature.
 
 - Gallery section containing photographs taken with the participants of the course and interviews with them.
 -  New announcements to announce new events to be held at appropriate times according to participant demands.
+  
+ # Technologies Used
+
+  - HTML5 - provides the content and structure for the website.
+  - CSS - provides the styling.
+  - BALSAMIQ - used to create the wireframes.
+  - GITPOD - used to deploy the website.
+  - GITHUB - used to host and edit the website.
 
 # Testing
   - All codes and features were tested with DevTools.
@@ -138,6 +144,10 @@ This site was created to announce Swedish courses and has a responsive feature.
  # Ideas
   - While designing this website, I was inspired by many websites that had internal announcements and I made sure that the information was much clearer and easier to understand.
   -  While I was looking for the most ideal design for the mobile size of the navbar items in the header, I was inspired by the [Love Running project](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode) for the dropdown menu section used for the mobile size of the navbar. I changed the design of the items we encounter when we open the dropdown menu in mobile size.
+  
+  # Acknowledgements
+
+  -  This project is a completely fictional project and was developed only as project-1 for the Code Institute Fullstack Developer Diploma program. I would like to thank my mentor [Precious ljege](https://www.linkedin.com/in/precious-ijege-908a00168/) and [Code Institute](https://codeinstitute.net/se/).
   
 
   
