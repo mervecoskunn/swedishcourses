@@ -17,6 +17,10 @@ They can take a look at brief information about the courses on the home page of 
 - **As a user I want to connect with Swedish Courses on social media.**
 - **As a user, I want to see the programs available.**
 
+## Wireframes
+The designs of this project were made in[Balsamiq](https://balsamiq.com/)
+
+
 # Features
 This site was created to announce Swedish courses and has a responsive feature.
 
