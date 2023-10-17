@@ -1,63 +1,49 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <!-- Title -->
-    <title>Contact Page</title>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <!-- Favicon Links -->
-    <link
-      rel="apple-touch-icon"
-      sizes="180x180"
-      href="assets/favicon_io/apple-touch-icon.png">
-    <link
-      rel="icon"
-      type="image/png"
-      sizes="32x32"
-      href="assets/favicon_io/favicon-32x32.png">
-    <link
-      rel="icon"
-      type="image/png"
-      sizes="16x16"
-      href="assets/favicon_io/favicon-16x16.png">
+  <!-- Title -->
+  <title>Contact Page</title>
 
-    <!-- Meta tags for search engines -->
-    <meta
-      name="description"
-      content="Swedish Course. Course for learn swedish in Sweden.">
-    <meta
-      name="keywords"
-      content="Learn Swedish, swedish, swedish fika, learn swedish grammer rules">
+  <!-- Favicon Links -->
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon_io/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon_io/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon_io/favicon-16x16.png">
 
-    <!-- Stylesheet -->
-    <link rel="stylesheet" href="assets/css/style.css">
-  </head>
-  <body>
-    <!-- Header -->
-    <header>
-      <a href="index.html">
-        <h1 id="logo">Swedish Course</h1>
-      </a>
+  <!-- Meta tags for search engines -->
+  <meta name="description" content="Swedish Course. Course for learn swedish in Sweden.">
+  <meta name="keywords" content="Learn Swedish, swedish, swedish fika, learn swedish grammer rules">
 
-      <!-- Dropdown Menu -->
-      <input type="checkbox" id="nav-toggle" name="nav-toggle">
-      <label for="nav-toggle" class="nav-toggle-label"
-        ><i class="fa-solid fa-bars"></i
-      ></label>
-      <nav>
-        <ul id="menu">
-          <li><a href="index.html">Home</a></li>
-          <li><a href="schedule.html">Schedule</a></li>
-          <li><a href="contact.html" class="active">Contact</a></li>
-        </ul>
-      </nav>
-    </header>
-    <main>
-      <!-- form section begin -->
-      <div class="form-container">
-        <form action="form-action.html" method="get">
+  <!-- Stylesheet -->
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+
+<body>
+  <!-- Header -->
+  <header>
+    <a href="index.html">
+      <h1 id="logo">Swedish Course</h1>
+    </a>
+
+    <!-- Dropdown Menu -->
+    <input type="checkbox" id="nav-toggle" name="nav-toggle">
+    <label for="nav-toggle" class="nav-toggle-label"><i class="fa-solid fa-bars"></i></label>
+    <nav>
+      <ul id="menu">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="schedule.html">Schedule</a></li>
+        <li><a href="contact.html" class="active">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <!-- form section begin -->
+    <div class="form-container">
+      <form action="form-action.html" method="get">
+        <div class="flex">
           <div class="form-input">
             <label for="first_name">First Name</label>
             <input type="text" id="first_name" placeholder="Enter your first name" required>
@@ -67,68 +53,49 @@
             <label for="last_name">Last Name</label>
             <input type="text" id="last_name" placeholder="Enter your last name" required>
           </div>
+        </div>
+        <div class="form-input">
+          <label for="email">Email Address</label>
+          <input type="email" id="email" placeholder="Enter your email address" required>
+        </div>
 
-          <div class="form-input">
-            <label for="email">Email Address</label>
-            <input
-              type="email" id="email"
-              placeholder="Enter your email address"
-              required>
-          </div>
+        <div class="form-input">
+          <label for="message">Message</label>
+          <textarea id="message" placeholder="Please write the course you would like to join and time"
+            required></textarea>
+        </div>
 
-          <div class="form-input">
-            <label for="message">Message</label>
-            <textarea
-              id="message"
-              placeholder="Please write the course you would like to join and time"
-              required
-            ></textarea>
-          </div>
-
-          <button>Submit</button>
-        </form>
+        <button>Submit</button>
+      </form>
+      <div class="map-container">
+        <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1zCyS-LRjNkVL1R6TuSw2eoCiSDmy1hY&ehbc=2E312F&noprof=1"
+          width="100%" height="100%"></iframe>
       </div>
-      <!-- form section end -->
-    </main>
-    <!-- footer begin -->
+    </div>
+    <!-- form section end -->
+  </main>
+  <!-- footer begin -->
 
-    <footer>
-      <ul id="footer-links">
-        <li>
-          <a
-            href="https://www.facebook.com/"
-            target="_blank"
-            rel="noopener"
-            aria-label="Visit our facebook page"
-            ><i class="fa-brands fa-facebook"></i
-          ></a>
-        </li>
-        <li>
-          <a
-            href="https://twitter.com/"
-            target="_blank"
-            rel="noopener"
-            aria-label="Visit our twitter page"
-            ><i class="fa-brands fa-twitter"></i
-          ></a>
-        </li>
-        <li>
-          <a
-            href="https://www.instagram.com/"
-            target="_blank"
-            rel="noopener"
-            aria-label="Visit our instagram page"
-            ><i class="fa-brands fa-instagram"></i
-          ></a>
-        </li>
-      </ul>
-    </footer>
-    <!-- footer end -->
+  <footer>
+    <ul id="footer-links">
+      <li>
+        <a href="https://www.facebook.com/" target="_blank" rel="noopener" aria-label="Visit our facebook page"><i
+            class="fa-brands fa-facebook"></i></a>
+      </li>
+      <li>
+        <a href="https://twitter.com/" target="_blank" rel="noopener" aria-label="Visit our twitter page"><i
+            class="fa-brands fa-twitter"></i></a>
+      </li>
+      <li>
+        <a href="https://www.instagram.com/" target="_blank" rel="noopener" aria-label="Visit our instagram page"><i
+            class="fa-brands fa-instagram"></i></a>
+      </li>
+    </ul>
+  </footer>
+  <!-- footer end -->
 
-    <!-- Font Awesome kit -->
-    <script
-      src="https://kit.fontawesome.com/3b20d96fa9.js"
-      crossorigin="anonymous"
-    ></script>
-  </body>
+  <!-- Font Awesome kit -->
+  <script src="https://kit.fontawesome.com/3b20d96fa9.js" crossorigin="anonymous"></script>
+</body>
+
 </html>
