@@ -5,7 +5,7 @@ On this page, you will see the free Swedish courses organized by a private compa
 
 
 
-![Am I Responsive?](assets/images/Ekran%20Resmi%202023-10-06%2009.41.55.png)
+![Am I Responsive?](assets/images/Am-I-Responsive.png)
 
 # User Experience (UX)
 
