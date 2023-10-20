@@ -20,6 +20,7 @@ On this page, you will see the free Swedish courses organized by a private compa
 ## Wireframes
 The designs of this project were made in [Balsamiq](https://balsamiq.com/).
 Designs for mobile size and large screens are designed as follows.
+P.S. Some differences occurred between the project and the design as some details changed over time and new features were added.
 
 ![homepage](assets/images/homepage.png)
 ![homepagemobile](assets/images/homepagemobile.png)
