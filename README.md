@@ -78,6 +78,9 @@ This site was created to announce Swedish courses and has a responsive feature.
     
     ![form section](assets/images/Screenshot%202023-10-10%20at%2011.45.34.png)
 
+    When the form is submitted, the user is automatically directed to a thank you page and the process is completed. The image of the thank you page is as follows.
+    ![Thanks page](assets/images/Thankspage.png)
+
 ## Future Features
 
 - Gallery section containing photographs taken with the participants of the course and interviews with them.
